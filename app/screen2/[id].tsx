@@ -16,3 +16,7 @@ export default function Screen2() {
         </View>
     )
 }
+
+//Suma
+//Resta
+//Division
