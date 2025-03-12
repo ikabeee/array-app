@@ -19,4 +19,5 @@ export default function Screen2() {
 
 //Suma
 //Resta
+//Multiplicacion
 //Division
